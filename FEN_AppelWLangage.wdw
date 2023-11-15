@@ -1,0 +1,136 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_AppelWLangage
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_AppelWLangage
+ identifier : 0x2a0eb53407c5d421
+ internal_properties : CAAAAAgAAABk6wULz3XUOMJdwP4V421Fu9ukm8Rt57kUw7RfD96vlW58451W7XPxBCKT2OvV/fptv2o6gyq1ibTXVjGJRt7A/lXAw13D1bgBFiQybDV3brGcWM2sWgK2TSbMWC7Aw/MbLqUe6DLcQsKW8vbIsxQo0l4jUS9usJipfkSFVKCfF7IKChu98QKnGkEPcFpO92IOqseRai1qHEN6eKeHrxw2hdWJQe1TvQPQs4hQw6TpW4lhrDmVAg3wbrcf2SMIDmgZWVKShyZw4QdOKUHqe1eAE+6bSgiX0GqRsR8LgjmwaY2ow5Zf4NoTBOYrLKJQ2KnpEowbP2ibQrFxAt8qFMfqNlfNBIFHvCiBuXioaGn5s0SaYr8ZDczmjQiifGHqvwgywHwOn78Gpz95pwtQdmTB9B0NhzsV9vdvLz+3I0JMIDXa7M2RywR+ctE5eUWuuQ2HKl3B64KMd6zGJZe1uRRKirp90bMtY7fSp7Gn61TU5lqcwfVTDLX5wlCaJFg3e53WXkqvMclU3wogUPgnRQkQaK3/otluQ5V+6YaUfWwMinYFJnH3EI7Mdxz/To/QpzYUPetFV/E2spYnuzSHh9eht8nlDw0t106K7iFqsmV142+f8oWLec1z12Ej1STGAqKysyFUE9n/gB9Vl3BotmsrAyLMorw79S187pP0mCimBDHhgGA3IjOYF9NG3SPeWUKBYBEVwrm3q/LZX1OPLwfPxtzw9DrR7wxzbEK6C3gTH07TEZx3EieZcN3x3lkPLmWdECh6aPoDH7LUZ0nZb+uwFmM6RyUGjpGehg==
+ properties :
+  width : 320
+  height : 408
+  heightMin : 481
+ controls :
+  -
+    name : LIB_Le_champ_ci_dessous_est
+    identifier : 0x2a0eb53407c6d421
+    internal_properties : CAAAAAgAAACLnKgXzUiL437HM2J4/8ZXXPnM2ShqmAhcpXKpTq7WpZly47qbsDPsYb6jGzu2PkpL++B1/8CN8A9boOmJPpNEk5I5WqOy3CEI442rx1R7dW8fua8R27Pu1aF2y5Gjg3OjhbhPLskrQ2j6tEb9toohqoEJUm2TkpKq8bc30R5At6Fzmte8xI0PaTARru8bXZxlFrCDznTPgXJ5tR4L/x6uZVneYCAS8UoBOjat0NDo86+1vg4+7hliEZVlXVLpJcJ2BB21IG3FzxGTuDObZyJKeOpT62xUpLylR1GwBFGYqL4TFIrJVNhy6TpLQ8SDAbb+6N6vpCV6Kjq2VNWAOPeUzpkB3HIyYnbddBO9neXfmqYb0cHXWrCjmn0EiJdbC8uraeph/n6kRpNUgBq49AjCBKk9r5A8+fSAg3eIJy41zy/VH4ZWz27hNm4w70lox1OTVMNjkzblcVhUl5FtedIZ5sJQ8PKQQwUYxqOf7yWx3tKyG+r0EgBuhnXknJDZe0t+Hh0FzFn96K1X3YLjn6alVvnwSmoSzgKbD2bT9Uq8Jf47LIZU8y4cjfZNCnm1tgeSiiZupSoXg+65m0rcsECW/G4wZ6lL9tgsCi3XC8QiGEGRCpF87wYuFiVH9Y3DjCgr83Wu0OyZmLozCciedTPHEZFQMmiVQBt0dtxQUqShgpdCKKSlj98hLhyg8yObSXccyv00HgM7/2VvYT+UPl5FKrysFkWf+Cp7roB23XFc4/yiIfjqDD2+SeE=
+    properties :
+     x : 16
+     y : 16
+     width : 288
+     height : 169
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : HTM_Bouton
+    identifier : 0x2a0eb53407c7d421
+    internal_properties : CAAAAAgAAACqSzHtgOVKZ6R7HJNStD5ckFPa217rtFrMv0G5VYSCXF+nY4nRCx01otxHY2UkuIhqfhPOqcEd0+w0FMQwYJ2F9WDynMv1yS9dPTb9OYxBHimPQGMQu2j4ndIH6vndq/EFttN0/7NLwjjsDn9yHbENSm9JkQTSRdn4wig21RFSTaIgSicYvLKUL1va8TrPJpTcj0jlRANF+5IDEY3/DxDc9aPKArrXOj++lankRQr83eKFbynU7DYuhV8Xe9aNLXTB6qj/fwR+cb9vuih4nvJG/DdxDrSsTX89RabIzpo61Nu3y3WMu6RL4guE+HOgHkM5yUmkWvI0wxBpyk9CYVBZQ7hXXnKA9YNhk4wmnSYhunorswzuM8otvMsA7CaYCBeMTpqGyIbbwYmdyuiK1tkFSWbC7sbcWBN5Wx9rjTcEkbUwFVpqFXvQcSyyVcXwIRj4uAzebJmWJyjNi48U6sfW+zlw/YithS38Pu8uFJ1nMxAiZh3DYAXg82IRIpJkFHMGoXZDyQ4DhihSAWEODX8lbgfN7rmA6lU3LmEAIpQPEWsY+ibvmuXUzF9eeah6xmtKXenLxVHqFqISH6I1YP2PeiqmUWxaua17eZtf5wXztWLZJPRU0UZLYnlSdP4cAEyxA3uz7FH5ZRSBMzK/HM46UG45gMGcfOL+BLDyd1/6Q3s5VARcvvURWcO+27gVRnY04FJt8ojwJlQAd/cTKFIFuTz+z3H5XCG2qZRvzec4zFsbhgWTas+EBXFgEy9p6fdjmurenyiUXg7W0+IlApDlTnWroZhppAYPcx1Dg8ByGqwXQvPvWlhyA3qfn7+GHEOcYohS+fdNroiW6oQeKXXysQaS3kCxwtl0/B6L/RhVA6eVruHJ43IyfJrCifP993gtgI0NnpWmEf9JTWaGt8sxosZSAmlRdT5oI6rn0hBNOt8/e5YbKr5ENsT69tQBn5B0yRpriTO1fsbbaJ6cGIYE+0HyFwxowJe4OE2LamNhKuYgYrx1Lg==
+    properties :
+     x : 16
+     y : 196
+     width : 288
+     height : 165
+    type : 23
+    code_elements :
+     type_code : 36
+     p_codes : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2a0eb53407c8d421
+  internal_properties : CAAAAAgAAABYkswNp1H2QjaMpP1/0eHz+wiglzIF8xpOlJ1fbB52YtdecLWrvuv3SGl5piDSMz4Iup7ee353w+REcNC7a+wJBp07jQs08Wr1w0mT0pEMoyUIwaB/ChKOECyGesHShCucivlCpH9sh1zjDhQ9/KnjWni8krmt1fxPCtBLzBZsDwyshMrwCItqUoCq7X4c0lF5iPBYTEdEGJrARyThhRmjNN4Qhg9R4Gb2tIoMPS0tN9GIUcSNWsTROpUY0O4dU70gwL1scToBnH1Kd/qnRlhFJbcFigUfZnU5RKsnYH6c5SOlKE61cf1ZA6o6kpxzEWvqrwKXy92oaaMwruarqpIPgwz9YmeWmNaJDd+jltPwbog814fQf7uFLSligo66W+JkQpiBnMduF+i4FHQJ/9NgjIzsljVXbdWj0mWB4m/O/OSbMpXo7Ds=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  internal_properties : CAAAAAgAAABj8NQRAv3GqpedRGCMtsosog3uzNmiT+CkXTig6X/a3eXdUWsEM1bkE5YI6FamwERLi8IA4TQk7wA+8VDa6DuCWDb6/Dg=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     code : |1-
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+  procedures :
+   -
+     name : AppelHTML
+     internal_properties : CAAAAAgAAACxGFaJmvU1Sk2FkAmX2QXpp6YcxT94+VFBm543+ij49Ycym2vJZXGLT0YxfPo5dffzZs7eV3wPJt+eerbD8379
+     procedure_id : 1877637329610134561
+     type_code : 14
+     code : |1-
+      // Résumé : Fonction appelée depuis le champ HTML
+      // La fonction reçoit un paramètre qui permet d'identifier le bouton qui a été cliqué
+      //
+      PROCEDURE PUBLIQUE  AppelHTML(sParametre est une chaine)
+      
+      // On affiche simplement un toast
+      ToastAffiche("Clic sur le bouton HTML : " + sParametre)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x1fb38ec00110eca7
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
